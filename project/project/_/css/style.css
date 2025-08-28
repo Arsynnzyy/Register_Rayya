@@ -1,0 +1,44 @@
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            color: #5b3056;
+            text-align: center;
+            padding: 25px;
+            background-color: green;
+            background-size: cover;
+        }
+        img {
+            width: 375px;
+        }
+        h1 {
+            color: rgb(40, 72, 59);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 40px; 
+            font-weight: bold;
+        }
+        button {
+            color: #ffccf9;
+            background-color: #5b3056;
+            border-radius: 50%;
+            border-color: #ffccf9;
+            margin: 20px;
+            padding: 10px;
+            font-size: 20px;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+        form input{
+            font-size: 20px;
+            background-color: white;
+            border: 2px solid #5b3056;
+            border-radius: 20px;
+            margin: 10px;
+            padding: 9px;
+        }
+        table {
+            text-align: center;
+            border: 2px solid white;
+            margin: auto;
+            color: white;
+            margin-top: 30px;
+            font-size: 20px;
+            text-indent: 50px;
+        }
